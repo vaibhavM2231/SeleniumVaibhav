@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+
+	<listeners>
+		<listener class-name="com.assignment.listeners.ReportUtils"></listener>
+	</listeners>
+	<test name="Test" parallel="classes">
+		
+		<classes>
+			<class name="com.assignment.testcases.SaleTest" />
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->
