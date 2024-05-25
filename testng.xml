@@ -4,7 +4,7 @@
 	<listeners>
 		<listener class-name="com.assignment.listeners.ReportUtils"></listener>
 	</listeners>
-	<test name="Test">
+	<test name="Testing">
 		<classes>
 			<class name="com.assignment.testcases.SignUpTest" />
 		</classes>
