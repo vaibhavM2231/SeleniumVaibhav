@@ -7,7 +7,6 @@
 	<test name="Testing">
 		<classes>
 			<class name="com.assignment.testcases.SignUpTest" />
-			<class name="com.assignment.testcases.SignUpTest" />
 		</classes>
 	</test> <!--
 	Test -->
